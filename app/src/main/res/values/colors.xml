@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="clipPurple">#990099</color>
+    <color name="clipBlue">#0000BB</color>
+    <color name="clipLightBlue">#00ffff</color>
+    <color name="clipGreen">#00cc00</color>
+    <color name="clipYellow">#ffff00</color>
+    <color name="clipOrange">#ff9900</color>
+    <color name="clipRed">#ee0000</color>
+
+    <array name="clipColors">
+        <item>@color/clipRed</item>
+        <item>@color/clipOrange</item>
+        <item>@color/clipYellow</item>
+        <item>@color/clipGreen</item>
+        <item>@color/clipLightBlue</item>
+        <item>@color/clipBlue</item>
+        <item>@color/clipPurple</item>
+    </array>
+</resources>
